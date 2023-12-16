@@ -1,1 +1,1 @@
-# CRUD-JPA-Project
+# SB-CRUD-JPA-Project
